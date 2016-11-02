@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="orderby">Order By</string>
+    <string name="hello">Hello World!</string>
+    <string name="Settings">Settings</string>
+    <string name="choose_fav_order">Favourite Movie Order</string>
+    <string name="pref_order_key" translatable="false">orderValue</string>
+    <string name="pref_order_label_topRated">Top Rated</string>
+    <string name="pref_order_label_popular">Most Popular</string>
+    <string name="pref_order_label_fav">favourites</string>
+    <string name="pref_order_topRated">top_rated</string>
+    <string name="pref_order_popular">popular</string>
+    <string name="pref_order_fav">favourites</string>
+    <string name="title_activity_detail">Details</string>
+
+</resources>
